@@ -1,0 +1,7 @@
+site_name: Documentações
+ novo_site
+    docs
+        index.md
+    mkdocs.yml
+theme:
+  name: material
