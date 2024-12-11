@@ -1,7 +1,7 @@
-site_name: Documentações
- novo_site
-    docs
-        index.md
-    mkdocs.yml
+site_name: Minhas documentações
 theme:
-  name: material
+  name: readthedocs
+nav: 
+    - NEXTCLOUD: index.md
+    - SAMBA: samba.md
+    - SOBRE: sobre.md
