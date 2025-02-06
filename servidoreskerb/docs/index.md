@@ -6,11 +6,11 @@ Em seguida,  pilha LAMP (Linux, Apache, MySQL/MariaDB e PHP), essencial para o f
 
 adicionamos repositórios e instalamos extensões do PHP para garantir a compatibilidade com o Nextcloud. Após a instalação, verificamos a versão do PHP instalada.
 
-A quarta etapa consiste na instalação do servidor MariaDB, essencial para armazenar as informações do Nextcloud. Em seguida, criamos o banco de dados e o usuário responsável pela administração do Nextcloud no banco de dados.
+A instalação do servidor MariaDB, essencial para armazenar as informações do Nextcloud. Em seguida, criamos o banco de dados e o usuário responsável pela administração do Nextcloud no banco de dados.
 
 Após isso, fazemos o download da versão mais recente do Nextcloud e configuramos as permissões necessárias para que o Apache possa gerenciar os arquivos corretamente.
 
-A sexta etapa envolve a configuração do Apache para hospedar o Nextcloud. Criamos um arquivo de configuração específico, definindo o domínio local e os diretórios necessários. Também ativamos os módulos essenciais do Apache e verificamos a integridade da configuração.
+Para a configuração do Apache para hospedar o Nextcloud. Criamos um arquivo de configuração específico, definindo o domínio local e os diretórios necessários. Também ativamos os módulos essenciais do Apache e verificamos a integridade da configuração.
 
 Além disso, para permitir a autenticação via LDAP no Nextcloud, é necessário instalar o plugin LDAP disponível na loja de aplicativos do Nextcloud. Após a instalação do plugin, devemos configurar informações essenciais do servidor LDAP, como o endereço IP, o nome do domínio e outras credenciais necessárias para garantir a autenticação dos usuários.
 
