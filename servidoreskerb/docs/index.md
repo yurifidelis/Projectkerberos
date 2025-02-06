@@ -2,9 +2,9 @@ Este projeto tem como objetivo integrar o Samba, o Nextcloud e o Debian para fun
 
 A primeira etapa envolve a atualização do sistema Debian para garantir que todos os pacotes estejam na versão mais recente.
 
-Em seguida, instalamos a pilha LAMP (Linux, Apache, MySQL/MariaDB e PHP), essencial para o funcionamento do Nextcloud. O Apache é configurado como servidor web, enquanto o MariaDB gerencia o banco de dados.
+Em seguida,  pilha LAMP (Linux, Apache, MySQL/MariaDB e PHP), essencial para o funcionamento do Nextcloud. O Apache é configurado como servidor web, enquanto o MariaDB gerencia o banco de dados.
 
-Na terceira etapa, adicionamos repositórios e instalamos extensões do PHP para garantir a compatibilidade com o Nextcloud. Após a instalação, verificamos a versão do PHP instalada.
+adicionamos repositórios e instalamos extensões do PHP para garantir a compatibilidade com o Nextcloud. Após a instalação, verificamos a versão do PHP instalada.
 
 A quarta etapa consiste na instalação do servidor MariaDB, essencial para armazenar as informações do Nextcloud. Em seguida, criamos o banco de dados e o usuário responsável pela administração do Nextcloud no banco de dados.
 

@@ -2,6 +2,5 @@ site_name: Minhas documentações
 theme:
   name: readthedocs
 nav: 
-    - NEXTCLOUD: index.md
-    - SAMBA: samba.md
+    - PROJETO LDAP: index.md
     - SOBRE: sobre.md
