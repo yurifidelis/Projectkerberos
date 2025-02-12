@@ -1,6 +1,6 @@
 site_name: Minhas documentações
 theme:
-  name: readthedocs
+  name: dracula
 nav: 
     - PROJETO LDAP: index.md
     - SOBRE: sobre.md
