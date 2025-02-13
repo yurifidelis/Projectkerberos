@@ -1,6 +1,6 @@
-site_name: Minhas documentações
+site_name: DOCUMENTAÇÃO
 theme:
   name: dracula
 nav: 
-    - PROJETO LDAP: index.md
+    - PROJETO: index.md
     - SOBRE: sobre.md
